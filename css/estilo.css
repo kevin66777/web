@@ -1,7 +1,7 @@
 /* SECCION I N I C I O */
 .inicio{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
-    url(../img/fondo.jpeg);
+    url(../img/fondo.jpg);
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -151,3 +151,8 @@
 .sobremi button:hover .overlay{
     width: 100%;
 }
+
+
+.spacer {
+    height: 100px; /* Puedes ajustar este valor según sea necesario */
+  }
