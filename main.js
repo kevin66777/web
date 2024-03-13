@@ -6,8 +6,8 @@ let typewriter = new Typewriter(app, {
 });
  
 typewriter
-  .pauseFor(3200)
-  .typeString('Hola, estas son algunas de mis habilidades..')
+  .pauseFor(1200)
+  .typeString('Además de SQL, XML...😌...')
   .pauseFor(200)
   .deleteChars(10)
   .start();
@@ -21,8 +21,8 @@ typewriter
    
 
 typewriter2
-  .pauseFor(2200)
-  .typeString('He trabajado en algunos<br>proyectos tales como...')
+  .pauseFor(1200)
+  .typeString('proyectos laborales y académicos...🙂...')
   .pauseFor(200)
   .deleteChars(10)
   .start();
