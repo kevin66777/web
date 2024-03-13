@@ -156,3 +156,13 @@
 .spacer {
     height: 100px; /* Puedes ajustar este valor según sea necesario */
   }
+
+.custom-carousel-button {
+    width: 50px;
+    height: 50px;
+}
+
+.custom-carousel-button img {
+    width: 50%;
+    height: 50%;
+}
